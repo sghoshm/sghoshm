@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sghoshm
-- 👀 I’m interested in Python Programming and Android Studio.
-- 🌱 I’m currently learning Python and a lil bit of Android App Development.
-- 💞️ I’m looking to collaborate on making new Apps and websites.
-- 📫 How to reach me:- email me at sumon38.sourabh@gmail.com
+- 👋 Hi, I’m Sumon Sourabh Ghosh a.k.a @sghoshm
+- 👀 I’m interested in Flutter, Android Studio and Python Programming.
+- 🌱 I’m currently learning lil bit of Android App Development and a big bit of Flutter.
+- 💞️ I’m looking to collaborate on making new Apps👏 and websites🕸️.
+- 📫 How to reach me:- Email me at sumon38.sourabh@gmail.com
