@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sumon Sourabh Ghosh a.k.a @sghoshm
-- 👀 I’m interested in Flutter, Android Studio and Python Programming.
-- 🌱 I’m currently learning lil bit of Android App Development and a big bit of Flutter.
-- 💞️ I’m looking to collaborate on making new Apps👏 and websites🕸️.
-- 📫 How to reach me:- Email me at sumon38.sourabh@gmail.com
+👋 Hey there! My name is Sumon Sourabh Ghosh and I am a 💻 software developer with a focus on 📱 mobile app development using Flutter and Android. I am a passionate and driven 🔥 individual with a strong desire to create intuitive and user-friendly mobile applications that make a positive impact in people's lives.
+
+I have a diverse skill set 🌟 and experience in a variety of programming languages, including Python 🐍, Java 🖥️, and C++ 🖥️. I am always eager to learn and expand my skills 📚, and I am continuously seeking out new opportunities to grow as a developer 🚀. In my free time, you can find me tinkering with new technologies 🤖, contributing to open source projects on GitHub 🐙, or collaborating with others to create innovative solutions 💡.
+
+I am a strong believer in the power of teamwork and collaboration 🤝, and I enjoy working with others to solve complex problems through technology 💻. If you have a project or idea that you think I could help with 🤝, I would love to hear from you and discuss how we can work together to make it a reality 🚀. Let's create something amazing together! 💪
